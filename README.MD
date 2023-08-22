@@ -8,3 +8,5 @@ Adding another change on the same date.
 Lets add another file here.
 
 Lets try and change this from Notepad.
+
+This is a change that should work with a PR template.
