@@ -8,3 +8,5 @@ Adding another change on the same date.
 Lets add another file here.
 
 Lets try and change this from Notepad.
+
+So we're going to try make a change here and then use the template file.
